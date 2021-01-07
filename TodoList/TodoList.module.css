@@ -1,0 +1,12 @@
+.TodoList {
+    text-align: center;
+}
+
+
+.TodoListInner {
+    position: relative;
+    left: 25%;
+    border: 2px solid rgb(206, 59, 59);
+    padding: 10px;
+    margin: 20px;
+}

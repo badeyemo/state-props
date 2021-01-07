@@ -1,0 +1,12 @@
+.Pokemon {
+    width: 100%;
+    text-align: center;
+    color: rgb(71, 75, 71);
+}
+
+.PokemonItems {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+}
